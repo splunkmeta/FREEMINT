@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FREEMINT/static/css/main.8ae8c509.chunk.css",
+    "main.js": "/FREEMINT/static/js/main.ba356086.chunk.js",
+    "main.js.map": "/FREEMINT/static/js/main.ba356086.chunk.js.map",
+    "runtime-main.js": "/FREEMINT/static/js/runtime-main.0c10d295.js",
+    "runtime-main.js.map": "/FREEMINT/static/js/runtime-main.0c10d295.js.map",
+    "static/js/2.6e1e09b1.chunk.js": "/FREEMINT/static/js/2.6e1e09b1.chunk.js",
+    "static/js/2.6e1e09b1.chunk.js.map": "/FREEMINT/static/js/2.6e1e09b1.chunk.js.map",
+    "static/js/3.8dfcd814.chunk.js": "/FREEMINT/static/js/3.8dfcd814.chunk.js",
+    "static/js/3.8dfcd814.chunk.js.map": "/FREEMINT/static/js/3.8dfcd814.chunk.js.map",
+    "index.html": "/FREEMINT/index.html",
+    "static/css/main.8ae8c509.chunk.css.map": "/FREEMINT/static/css/main.8ae8c509.chunk.css.map",
+    "static/js/2.6e1e09b1.chunk.js.LICENSE.txt": "/FREEMINT/static/js/2.6e1e09b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c10d295.js",
+    "static/js/2.6e1e09b1.chunk.js",
+    "static/css/main.8ae8c509.chunk.css",
+    "static/js/main.ba356086.chunk.js"
+  ]
+}
